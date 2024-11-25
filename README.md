@@ -6,7 +6,8 @@ with Google Gemeni Cloned user interface
 important Note!! 
 Use Your own API Key for the project and do not puplish it for security reasons!
 
-Features:
+✦ Features:
+
 API integrated
 
 Theme mode Switcher
